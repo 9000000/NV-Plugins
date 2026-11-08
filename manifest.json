@@ -28,16 +28,16 @@
       ]
     },
     {
-      "id": "vlxxai",
-      "name": "VLXX AI",
-      "description": "Scraper phát phim trực tiếp từ VLXX AI cho Nuvio",
+      "id": "18plusai",
+      "name": "18 Plus AI",
+      "description": "Kho phim 18+ AI Vietsub & Thuyết Minh chất lượng cao Full HD cho Nuvio",
       "version": "1.0.0",
       "author": "9000000",
       "supportedTypes": [
         "movie",
         "tv"
       ],
-      "filename": "providers/vlxxai.js",
+      "filename": "providers/18plusai.js",
       "enabled": true,
       "formats": [
         "m3u8",
