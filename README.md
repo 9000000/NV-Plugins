@@ -16,7 +16,7 @@
 ### Bước 1: Lấy Link Repository
 
 ```text
-https://raw.githubusercontent.com/9000000/NV-Addon/main/manifest.json
+https://raw.githubusercontent.com/9000000/NV-Plugins/main/manifest.json
 ```
 
 ### Bước 2: Thêm vào NuvioTV
@@ -75,7 +75,7 @@ Xem file `manifest.json` để biết danh sách đầy đủ các addon có s�
 ### Cấu trúc Repository
 
 ```text
-NV-Addon/
+NV-Plugins/
 ├── providers/          # Built & minified addon files
 │   ├── addon1.js
 │   ├── addon2.js
