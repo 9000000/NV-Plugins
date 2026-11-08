@@ -10,12 +10,44 @@
       "description": "Kho phim Châu Á & JAV 18+ giải mã HLS trực tiếp chất lượng cao kèm Headers chống chặn",
       "version": "1.1.3",
       "author": "9000000",
-      "supportedTypes": ["movie", "tv"],
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
       "filename": "providers/avdb.js",
       "enabled": true,
-      "formats": ["m3u8"],
+      "formats": [
+        "m3u8"
+      ],
       "logo": "https://upload18.cc/template/api/lemetu/v2/favicon-32.b434cfc1bf.png",
-      "contentLanguage": ["ja", "en", "zh", "vi"]
+      "contentLanguage": [
+        "ja",
+        "en",
+        "zh",
+        "vi"
+      ]
+    },
+    {
+      "id": "vlxxai",
+      "name": "VLXX AI",
+      "description": "Scraper phát phim trực tiếp từ VLXX AI cho Nuvio",
+      "version": "1.0.0",
+      "author": "9000000",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vlxxai.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "vi",
+        "en"
+      ]
     }
   ]
 }
