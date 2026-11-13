@@ -48,6 +48,29 @@
         "vi",
         "en"
       ]
+    },
+    {
+      "id": "javguru",
+      "name": "JAV Guru",
+      "description": "Kho phim JAV & Uncensored tuyển chọn từ JAV Guru hỗ trợ đa server VOE, Lulu, Dood",
+      "version": "1.0.0",
+      "author": "9000000",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/javguru.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://jav.guru/wp-content/themes/JG/assets/img/logo.png",
+      "contentLanguage": [
+        "ja",
+        "en",
+        "vi"
+      ]
     }
   ]
 }
