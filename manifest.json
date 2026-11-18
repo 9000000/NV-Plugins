@@ -1,6 +1,6 @@
 {
   "name": "NV-Plugins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "9000000",
   "description": "Kho Scrapers và Plugins chất lượng cao cho ứng dụng Nuvio Streaming.",
   "scrapers": [
@@ -8,7 +8,7 @@
       "id": "avdb",
       "name": "18 Plus AV",
       "description": "Kho phim Châu Á & JAV 18+ giải mã HLS trực tiếp chất lượng cao kèm Headers chống chặn",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "author": "9000000",
       "supportedTypes": [
         "movie",
@@ -31,7 +31,7 @@
       "id": "18plusai",
       "name": "18 Plus AI",
       "description": "Kho phim 18+ AI Vietsub & Thuyết Minh chất lượng cao Full HD cho Nuvio",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "9000000",
       "supportedTypes": [
         "movie",
@@ -52,8 +52,8 @@
     {
       "id": "javguru",
       "name": "JAV Guru",
-      "description": "Kho phim JAV & Uncensored tuyển chọn từ JAV Guru hỗ trợ đa server VOE, Lulu, Dood",
-      "version": "1.0.0",
+      "description": "Kho phim JAV & Uncensored tuyển chọn từ JAV Guru hỗ trợ đa server VIP, Lulu, StreamWish",
+      "version": "1.1.0",
       "author": "9000000",
       "supportedTypes": [
         "movie",
